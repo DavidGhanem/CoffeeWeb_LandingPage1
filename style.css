@@ -116,7 +116,9 @@ header .navbar{
 }
 
 @media screen and (max-width: 900px){
-
+    body{
+        background-position: 80%;
+    }
     header{
         padding: 10px 20px;
     }
